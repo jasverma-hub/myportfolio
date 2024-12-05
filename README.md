@@ -50,7 +50,7 @@ git clone git@https://github.com/jasverma-hub/myportfolio
 cd myportfolio
 ```
 
-### **Installation
+### **Installation**
 Install the project dependencies using npm:
 ```bash
 npm install
